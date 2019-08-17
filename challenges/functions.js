@@ -43,7 +43,7 @@ function greeting(first, last) {
 
 // Explain in your own words why `nestedfunction()` can access the variable `internal`.
 
-// Explanation: 
+// Explanation: If nestedfunction() cannot find internal in its scope it is able to reach outside to find the value.
 
 
 const external = "I'm outside the function";
