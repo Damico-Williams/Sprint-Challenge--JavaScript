@@ -47,10 +47,10 @@ Edit this document to include your answers after each question. Make sure to lea
 
 //c.this is the new Object created using new.
 
-//d.whenever call of apply is used.
+//d.whenever call or apply is used.
 
 5. Why do we need super() in an extended class?
-//super tells extends where to go and binds the parent.
+//super tells extends where to go and binds to the parent.
 
 ## Project Set up
 
